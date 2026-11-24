@@ -1,0 +1,6 @@
+{
+  "name": "node-only",
+  "version": "1.0.0",
+  "type": "module",
+  "exports": { "node": "./index.js" }
+}
